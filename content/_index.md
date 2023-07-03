@@ -1,5 +1,5 @@
 ---
-title: HB Theme Template
+title: stagebackoffice
 # menu:
 #   main:
 #     name: Home

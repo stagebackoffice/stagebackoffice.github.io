@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Documentos
 menu:
   main:
     weight: 1
@@ -9,4 +9,5 @@ menu:
         name: book
 ---
 
-The example of Docs layout.
+Documentation place
+  

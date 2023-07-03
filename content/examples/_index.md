@@ -1,5 +1,5 @@
 ---
-title: Examples
+title: Exemplos
 menu:
   main:
     weight: 3
