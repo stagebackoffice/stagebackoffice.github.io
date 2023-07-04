@@ -2,3 +2,5 @@ baseURL = 'https://stagebackoffice.github.io/'
 languageCode = 'pt-pt'
 title = 'stagebackoffice'
 theme = 'ananke'
+
+googleAnalytics = "G-QJ47W24DHK"
