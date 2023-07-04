@@ -9,5 +9,12 @@ Boas !
 Primeiro *post*.
 
 
-Acabado de sair do "hugo server", este site destina-se ao acompanhamento do projeto **stagebackoffice**
+Criado com **hugo** e tema **ananke**, este site destina-se ao acompanhamento do projeto **stagebackoffice**.
+
+## Acerca de ...
+### Acerca do projeto stagebackoffice
+### Acerca do site
+
+- hugo + tema ananke
+
 
