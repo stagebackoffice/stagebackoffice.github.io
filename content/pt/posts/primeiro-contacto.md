@@ -1,7 +1,11 @@
 ---
 title: "Primeiro Contacto"
+description: ""
 date: 2023-07-01
 draft: false
+
+cascade:
+  featured_image: ""
 ---
 
 Boas !
