@@ -1,6 +1,6 @@
 baseURL = 'https://stagebackoffice.github.io/'
-languageCode = 'pt-pt'
-title = 'stagebackoffice'
+languageCode = 'pt'
+title = 'stagebackoffice.pt'
 theme = 'ananke'
 
 googleAnalytics = "G-QJ47W24DHK"
