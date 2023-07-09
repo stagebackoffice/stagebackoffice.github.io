@@ -5,7 +5,6 @@ date: 2023-07-01
 cascade:
     featured_image: "/jpg/pexels-jonathan-borba-4431922.jpg"
 draft: false
-
 ---
 
 Boas !

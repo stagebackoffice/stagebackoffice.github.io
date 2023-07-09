@@ -3,7 +3,8 @@ title: "Montagem"
 date: 2023-07-09T20:30:00+01:00
 description: "Montagem do site"
 cascade:
-  featured_image: "/jpg/DSCN3989.jpg"
+    featured_image: "/jpg/DSCN3989.jpg"
+    
 draft: false
 ---
 montagem
