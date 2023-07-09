@@ -15,13 +15,7 @@ SectionPagesMenu = "main"
     weight = 1
     contentDir = "content/pt"
     
-  [languages.en]
-    title = "stagebackoffice.pt"
-    weight = 2
-    contentDir = "content/en"
-
-
-
+# comentário
 
 
 googleAnalytics = "G-QJ47W24DHK"
@@ -32,7 +26,8 @@ googleAnalytics = "G-QJ47W24DHK"
 
 [params]
   text_color = ""
-  author = "Ricardo Almeida"
+  # author = "Ricardo Almeida"
+  author = ""
   favicon = ""
   site_logo = ""
   description = "projeto stagebackoffice"
