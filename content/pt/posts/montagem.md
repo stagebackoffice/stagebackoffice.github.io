@@ -4,7 +4,7 @@ date: 2023-07-09T20:30:00+01:00
 description: "Montagem do site"
 cascade:
     featured_image: "/jpg/DSCN3989.jpg"
-    
+
 draft: false
 ---
 montagem
@@ -29,3 +29,8 @@ Este site vai ser o palco do projeto.
 #### Para o próximo mês
 Colocar online o`www.stagebackoffice.pt`
 Do brainstorm a decorrer para o motor do site, de momento o mais plausível é sair com a base de um blog assente em `wordpress`.
+
+![install vsc](/static/jpg/Screenshot%202023-07-09%20154808.png)
+
+
+[site stagebackoffice](https://stagebackoffice.github.io/)
