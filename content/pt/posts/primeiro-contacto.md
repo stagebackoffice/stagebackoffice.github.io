@@ -2,8 +2,7 @@
 title: "Primeiro Contacto"
 description: ""
 date: 2023-07-01
-cascade:
-    featured_image: "/jpg/pexels-jonathan-borba-4431922-2.jpg"
+featured_image: "/jpg/pexels-jonathan-borba-4431922-2.jpg"
 draft: false
 ---
 
