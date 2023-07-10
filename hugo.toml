@@ -3,11 +3,9 @@ languageCode = 'pt-pt'
 title = 'stagebackoffice.pt'
 theme = 'ananke'
 
-
 DefaultContentLanguage = "pt"
 
 SectionPagesMenu = "main"
-
 
 [languages]
   [languages.pt]
@@ -15,19 +13,17 @@ SectionPagesMenu = "main"
     weight = 1
     contentDir = "content/pt"
     
-# comentário
-
 
 googleAnalytics = "G-QJ47W24DHK"
 
 
 
-
-
 [params]
   text_color = ""
+
   # author = "Ricardo Almeida"
   author = ""
+  
   favicon = ""
   site_logo = ""
   description = "projeto stagebackoffice"
