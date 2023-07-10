@@ -2,9 +2,8 @@ baseURL = 'https://stagebackoffice.github.io/'
 languageCode = 'pt-pt'
 title = 'stagebackoffice.pt'
 theme = 'ananke'
-
+# --------------------------------------------------------
 DefaultContentLanguage = "pt"
-
 SectionPagesMenu = "main"
 
 [languages]
@@ -12,21 +11,23 @@ SectionPagesMenu = "main"
     title = "stagebackoffice"
     weight = 1
     contentDir = "content/pt"
-    
+
+# --------------------------------------------------------    
 
 googleAnalytics = "G-QJ47W24DHK"
-
-
+# --------------------------------------------------------
 
 [params]
   text_color = ""
 
   # author = "Ricardo Almeida"
   author = ""
-  
+
   favicon = ""
   site_logo = ""
   description = "projeto stagebackoffice"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-dark-gray"
   recent_posts_number = 3
+
+  # --------------------------------------------------------
