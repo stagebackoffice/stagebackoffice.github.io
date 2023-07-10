@@ -28,7 +28,3 @@ Este site vai ser o palco do projeto.
 Colocar online o`www.stagebackoffice.pt`
 Do brainstorm a decorrer para o motor do site, de momento o mais plausível é sair com a base de um blog assente em `wordpress`.
 
-![install vsc](/jpg/Screenshot%202023-07-09%20154808.png)
-
-
-[site stagebackoffice](https://stagebackoffice.github.io/)
