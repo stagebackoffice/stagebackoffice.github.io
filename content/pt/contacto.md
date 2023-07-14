@@ -4,7 +4,7 @@ featured_image: ''
 omit_header_text: true
 description: Canal de comunicação
 type: page
-menu: main
+#menu: main
 
 ---
 

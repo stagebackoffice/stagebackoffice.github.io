@@ -4,11 +4,15 @@ other = "Mais"
 [allTitle]
 other = "Todo o {{.Title }}"
 
+#[recentTitle]
+#other = "{{.Title }} Recentes"
+
 [recentTitle]
-other = "{{.Title }} Recentes"
+other = "Publicações Recentes"
 
 [readMore]
-other = "Leia mais"
+other = "Ler mais"
+#other = "Leia mais"
 
 [by]
 other = "por"
