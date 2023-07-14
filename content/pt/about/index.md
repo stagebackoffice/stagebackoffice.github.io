@@ -9,7 +9,7 @@ menu:
     weight: 1
 ---
 
-Descrição do projeto
+## Descrição do projeto
 
 ## Sobre...
  ou
