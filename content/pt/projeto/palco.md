@@ -25,18 +25,18 @@ Primeira publicação.
 
 - imagem
 
-![3](/jpg/Screenshot_2023-07-09_154808.png)
+![3](/jpg/Screenshot_2023-07-09_154808.jpg)
 
 --
 
 - projeto
 
-![4](/jpg/Screenshot_2023-07-14_212922.png)
+![4](/jpg/Screenshot_2023-07-14_212922.jpg)
 
 --
 
 - rodapé
 
-![5](/jpg/Screenshot_2023-07-15_023208.png)
+![5](/jpg/Screenshot_2023-07-15_023208.jpg)
 
 --
