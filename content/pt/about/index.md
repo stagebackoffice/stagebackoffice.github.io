@@ -8,7 +8,6 @@ featured_image: "/jpg/pexels-jonathan-borba-4431922-50.jpg"
 #  main:
 #    weight: 1
 ---
-
 ## Descrição do projeto
 
 ## Sobre...
