@@ -1,27 +1,28 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo"> 
+    <p>
+      <a class="f6 fw4 hover-white no-underline white-70  dib-ns pv2 ph3" href="/about/" >Sobre o projeto</a>
+    </p>
+    <p>
+      <a class="f6 fw4 hover-white no-underline white-70  dib-ns pv2 ph3" href="/contacto/" >Contacto</a>
+    </p>
+    <p>
+      <a class="f6 fw4 hover-white no-underline white-70  dib-ns pv2 ph3" href="/termos/" >Termos e Condições de uso</a>
+    </p>
+    <p>
+      <a class="f6 fw4 hover-white no-underline white-70  dib-ns pv2 ph3" href="/politicas/" >Políticas de Privacidade</a>
+    </p>
   <div class="flex justify-between">
-    <p>
-      <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/about/" >Sobre o projeto</a>
-    </p>
-    <p>
-      <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/contacto/" >Contacto</a>
-    </p>
-    <p>
-      <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/termos/" >Termos e Condições de uso</a>
-    </p>
-    <p>
-      <a class="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="/politicas/" >Políticas de Privacidade</a>
-    </p>
-  </div>
     <a class="f5 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
-      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+        &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
     </a>
-  <div>{{ partial "social-follow.html" . }}</div>
-  
-  fim dos icons
+  </div>
+ 
+  <div>{{ partial "social-follow.html" . }}
+    
+  </div>
   <div class="mt5">
-    111
+
   </div>
 </footer>
-fim do rodapé
+
 
