@@ -9,7 +9,7 @@ type: page
 
 ---
 
-Neste momento o meio de comunicação existente é:
+Neste momento o canal de comunicação existente é:
 
 
 geral@stagebackoffice.pt

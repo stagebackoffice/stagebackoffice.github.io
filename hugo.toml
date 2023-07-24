@@ -75,6 +75,9 @@ pluralizelisttitles = false
 name = "github"
 url = "https://github.com/stagebackoffice"
 
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/stagebackoffice/"
 
 # ------------------------------------------------
 [sitemap]
