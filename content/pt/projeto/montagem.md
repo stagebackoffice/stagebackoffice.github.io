@@ -2,7 +2,7 @@
 title: "Montagem"
 date: 2023-07-09T20:30:00+01:00
 description: "Montagem do site"
-featured_image: "/jpg/DSCN3989.jpg"
+# featured_image: "/jpg/"
 draft: false
 ---
 # Montagem do projeto
@@ -16,7 +16,11 @@ resultado: **stagebackoffice**
 - criação de novo email `geral@stagebackoffice.pt`
 ### Julho
 - site do projeto no github online [projeto-stagebackoffice](https://stagebackoffice.github.io/).
+
 Este site vai ser o palco do projeto.
+
+- termos de uso e RPGD
+
 
 ## Próximos passos
 - criar conteúdo geral, para modelar a base do futuro site.

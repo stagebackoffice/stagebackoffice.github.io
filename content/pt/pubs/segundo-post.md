@@ -1,7 +1,7 @@
 ---
 title: "Segundo Post"
 date: 2023-07-15T02:01:06+01:00
-featured_image: "/jpg/pexels-jonathan-borba-4431922-50.jpg"
+featured_image: "/jpg/background-002.jpg"
 draft: false
 ---
 

@@ -10,3 +10,7 @@ type: page
 ---
 
 Termos e Condições de Uso
+
+
+- Direitos de autor
+- Propriedade intelectual

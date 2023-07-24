@@ -3,7 +3,9 @@ title: "Palco"
 #date: 2023-07-10T14:55:30+01:00
 date: 2023-07-2
 description: "O 'look' do site"
+featured_image: "/jpg/background-002.jpg"
 draft: false
+
 ---
 
 

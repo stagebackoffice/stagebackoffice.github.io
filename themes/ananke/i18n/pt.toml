@@ -18,7 +18,8 @@ other = "Ler mais"
 other = "por"
 
 [whatsInThis]
-other = "O que há neste {{ .Type }}"
+#other = "O que há neste {{ .Type }}"
+other = "O que há neste artigo"
 
 [related]
 other = "Relacionado"
