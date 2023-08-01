@@ -1,12 +1,10 @@
 ---
 title: "Código De Cores"
 date: 2023-07-19T20:51:00+01:00
-draft: true
+draft: false
 description: ""
 featured_image: "/png/tabela-codigo-de-cores.png"
-# omit_header_text: true
-# type: page
-#toc: true
+
 ---
 
 ## Código de cores
