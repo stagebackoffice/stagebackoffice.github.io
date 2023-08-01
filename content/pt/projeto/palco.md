@@ -8,12 +8,11 @@ draft: false
 
 ---
 
-
 - teste
 
 site online
 
-![teste](/jpg/Screenshot_2023-07-03_194236.png)
+![teste](/png/Screenshot_2023-07-03_194236.png)
 
 --
 - tema
@@ -21,7 +20,7 @@ site online
 tema `ananke` instalado.
 Primeira publicação.
 
-![tema](/jpg/Screenshot_2023-07-09_152537.png)
+![tema](/png/Screenshot_2023-07-09_152537.png)
 
 --
 
@@ -40,5 +39,12 @@ Primeira publicação.
 - rodapé
 
 ![5](/jpg/Screenshot_2023-07-15_023208.jpg)
+
+----
+
+- Agosto
+
+
+![6](/jpg/Screenshot_2023-08-01_153440.jpg)
 
 --
