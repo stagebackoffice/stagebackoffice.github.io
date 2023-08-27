@@ -1,7 +1,7 @@
 ---
 title: "LK vs Harting"
 date: 2023-08-27
-draft: true
+draft: false
 description: "LK vs Harting"
 featured_image: ""
 
