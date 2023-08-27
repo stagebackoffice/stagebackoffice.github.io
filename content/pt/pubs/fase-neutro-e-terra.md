@@ -1,7 +1,7 @@
 ---
 title: "Fase, Neutro e Terra"
 date: 2023-07-19T20:48:54+01:00
-draft: true
+draft: false
 description: ""
 featured_image: "/jpg/background-002.jpg"
 # omit_header_text: true
